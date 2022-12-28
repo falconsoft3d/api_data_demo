@@ -16,5 +16,11 @@
    "name": "DEMO 1"
    "price": "1200",
    "img" : ""
+  },
+  {
+   "code": "02",
+   "name": "DEMO 2"
+   "price": "3200",
+   "img" : ""
   }
 ]
