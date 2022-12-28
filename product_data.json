@@ -10,5 +10,11 @@
    "name": "IPHONE 14",
    "price": "1200",
    "img" : ""
+  },
+  {
+   "code": "01",
+   "name": "DEMO 1"
+   "price": "1200",
+   "img" : ""
   }
 ]
