@@ -3,10 +3,12 @@
    "code": "012201",
    "name": "MAC M1",
    "price": "1500",
+   "img" : ""
   },
   {
    "code": "012202",
-   "name": "IOPHONE 14",
+   "name": "IPHONE 14",
    "price": "1200",
+   "img" : ""
   }
 ]
